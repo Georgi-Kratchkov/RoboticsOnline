@@ -15,6 +15,8 @@ group :assets do
   gem 'font-awesome-rails'
 end
 
+gem 'therubyracer'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
