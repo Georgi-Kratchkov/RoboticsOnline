@@ -1,0 +1,78 @@
+// Place all the styles related to the user controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#main-content .scrollbar {
+	max-height: 255px;
+}
+
+#test {
+	width: 150px;
+	height: 150px;
+}
+
+#main img {
+	width: 100%;
+	height: 150px;
+}
+
+#main .progress {
+	margin-top: 20px
+}
+
+#main .stats ul {
+	margin:0;
+	padding: 0;
+}
+
+#main .stats li {
+	list-style: none;
+	margin: 0;
+}
+
+#main .user-name {
+	font-size: 1.5em;
+	margin-bottom: 10px;
+}
+
+#main .user-name a:hover {
+	text-decoration: none	
+}
+
+#history {
+	margin-left: 18px;
+	opacity: 0.5;
+
+}
+#history i {
+	color: white;
+	text-decoration: underline;
+}
+.stat a, {
+	color: white;
+}
+.stat a:hover {
+	color: white;
+	text-decoration: none;
+}
+.popover-title {
+    color: blue;
+    font-size: 15px;
+}
+.popover-content {
+    color: #1670CC;
+    font-size: 12px;
+}
+
+.list_name a,
+.list_level a, {
+	color:#FFFFFF; 
+	text-decoration: none;
+} 
+.list_name a:hover,
+.list_level a:hover {
+	color: white;
+	text-decoration: none;
+}
+
+
